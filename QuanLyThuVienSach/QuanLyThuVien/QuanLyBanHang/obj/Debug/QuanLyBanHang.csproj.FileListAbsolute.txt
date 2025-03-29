@@ -1,0 +1,74 @@
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fDangNhap.resources
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fBangQuanLy.resources
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fThongTinCaNhan.resources
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fAdmin.resources
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\ExpressionEvaluator.dll
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\GSF.Core.dll
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\GSF.Core.xml
+C:\Users\ADMIN\Desktop\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBa.0E1441E5.Up2Date
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\ExpressionEvaluator.dll
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\GSF.Core.dll
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\GSF.Core.xml
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fBangQuanLy.resources
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fAdmin.resources
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fDangNhap.resources
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fThongTinCaNhan.resources
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\ASUS\Desktop\qlybanhang sql + visual 2022\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\ExpressionEvaluator.dll
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\GSF.Core.dll
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\bin\Debug\GSF.Core.xml
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fBangQuanLy.resources
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fAdmin.resources
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fDangNhap.resources
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBa.0E1441E5.Up2Date
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\ADMIN\Documents\quản lý bán hàng dự án (help)\quản lý bán hàng dự án\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fBangQuanLy.resources
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fAdmin.resources
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.fDangNhap.resources
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyThuVien.pdb
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\ExpressionEvaluator.dll
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\GSF.Core.dll
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\GSF.Core.xml
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBa.0E1441E5.Up2Date
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyThuVien.pdb

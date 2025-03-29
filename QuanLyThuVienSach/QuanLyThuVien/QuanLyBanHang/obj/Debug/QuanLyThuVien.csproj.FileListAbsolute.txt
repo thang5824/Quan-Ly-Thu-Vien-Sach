@@ -1,0 +1,90 @@
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyThuVien.pdb
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\ExpressionEvaluator.dll
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\GSF.Core.dll
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\GSF.Core.xml
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyTh.B5137F7B.Up2Date
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyThuVien.pdb
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyThuVien.fAdmin.resources
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyThuVien.fBangQuanLy.resources
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyThuVien.fDangNhap.resources
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\bin\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\bin\Debug\QuanLyThuVien.pdb
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\bin\Debug\ExpressionEvaluator.dll
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\bin\Debug\GSF.Core.dll
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\bin\Debug\GSF.Core.xml
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.fBangQuanLy.resources
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.fAdmin.resources
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.fDangNhap.resources
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyTh.B5137F7B.Up2Date
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\Documents\phần mềm quản lý thư viện\Nhóm 11, DH22KPM01 phần mềm quản lý bán hàng\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.pdb
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\bin\Debug\QuanLyThuVien.exe
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\bin\Debug\QuanLyThuVien.pdb
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\bin\Debug\Antlr3.Runtime.dll
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\bin\Debug\ExpressionEvaluator.dll
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\bin\Debug\GSF.Core.dll
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\bin\Debug\GSF.Core.xml
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.fBangQuanLy.resources
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.fAdmin.resources
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.fDangNhap.resources
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyTh.B5137F7B.Up2Date
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.exe
+C:\Users\huynh\Downloads\QuanLyThuVien (5)\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.pdb
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\QuanLyThuVien.pdb
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\ExpressionEvaluator.dll
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\GSF.Core.dll
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\GSF.Core.xml
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.fBangQuanLy.resources
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.fAdmin.resources
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.fDangNhap.resources
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyTh.B5137F7B.Up2Date
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.exe
+C:\Users\ADMIN\Desktop\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.pdb
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\QuanLyThuVien.exe
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\QuanLyThuVien.pdb
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\Antlr3.Runtime.dll
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\ExpressionEvaluator.dll
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\GSF.Core.dll
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\bin\Debug\GSF.Core.xml
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.fBangQuanLy.resources
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.fAdmin.resources
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.fDangNhap.resources
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyTh.B5137F7B.Up2Date
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.exe
+C:\Users\huynh\Downloads\QuanLyThuVienSach (2)\QuanLyThuVienSach\QuanLyThuVienSach\QuanLyThuVien\QuanLyBanHang\obj\Debug\QuanLyThuVien.pdb
